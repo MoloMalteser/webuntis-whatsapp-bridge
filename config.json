@@ -1,0 +1,23 @@
+{
+    "timetable": [
+        {"lesson": 1, "start": "07:55", "end": "08:40"},
+        {"lesson": 2, "start": "08:43", "end": "09:28"},
+        {"lesson": 3, "start": "09:43", "end": "10:28"},
+        {"lesson": 4, "start": "10:31", "end": "11:16"},
+        {"lesson": 5, "start": "11:31", "end": "12:16"},
+        {"lesson": 6, "start": "12:19", "end": "13:04"},
+        {"lesson": 7, "start": "13:20", "end": "14:05"},
+        {"lesson": 8, "start": "14:05", "end": "14:50"},
+        {"lesson": 9, "start": "14:50", "end": "15:35"}
+    ],
+    "classes": [
+        {
+            "class_name": "Q1",
+            "classID": "872",
+            "whatsapp_groupID": "123456789123456789@g.us",
+            "hasCommandPermission": true
+        }
+    ],
+    "helpURL": "https://help.url"
+
+}
